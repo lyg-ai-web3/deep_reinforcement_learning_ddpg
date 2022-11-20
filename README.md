@@ -1,4 +1,4 @@
-# deep_reinforcement_learning_project2
+# deep_reinforcement_learning_ddpg
 ## Overview
 For this project, you will work with the Reacher environment.
 
